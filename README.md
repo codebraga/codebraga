@@ -21,3 +21,44 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<hr>
+
+#### Links úteis que pode te ajudar em algum momento
+
+##### FreeStock Photos
+|Nome|Link|
+|:------:|:------:|
+|![Unsplash](https://www.google.com/s2/favicons?domain=https://unsplash.com) Unsplash|https://unsplash.com
+|![Pexels](https://www.google.com/s2/favicons?domain=https://pexels.com) Pexels|https://pexels.com
+|![Split Shire](https://www.google.com/s2/favicons?domain=https://www.splitshire.com) Split Shire|https://www.splitshire.com
+|![](https://www.google.com/s2/favicons?domain=https://coolbackgrounds.io/) Cool Background|https://coolbackgrounds.io
+|![](https://www.google.com/s2/favicons?domain=https://pixabay.com) Pixa Bay|https://pixabay.com
+|![](https://www.google.com/s2/favicons?domain=https://pxhere.com) PxHere|https://pxhere.com
+
+##### Shapes
+|Nome|Link|
+|:------:|:------:|
+|![Blobmaker](https://www.google.com/s2/favicons?domain=https://www.blobmaker.app/) Blobmaker|https://blobmaker.app
+
+##### Pattern
+|Nome|Link|
+|:------:|:------:|
+|![Unsplash](https://www.google.com/s2/favicons?domain=https://www.producthunt.com/posts/hero-patterns) Producthunt|https://www.producthunt.com/posts/hero-patterns
+
+##### Ilustrações
+|Nome|Link|
+|:------:|:------:|
+|![unDraw](https://www.google.com/s2/favicons?domain=https%3A%2F%2Fundraw.co%2Fillustrations) unDraw|https://undraw.co/illustrations
+|![Drawkit](https://www.google.com/s2/favicons?domain=https%3A%2F%2Fdrawkit.com) Drawkit|https://drawkit.com/
+|![Icons8](https://www.google.com/s2/favicons?domain=https://icons8.com/illustrations) Icons8|https://icons8.com/illustrations
+|![Illustration](https://www.google.com/s2/favicons?domain=https://illustation.io/) Illustration|https://illustation.io/
+
+<hr>
+
+### Como ver o Favicon de um site apenas por um link?
+
+##### Cole o link do site depois do sinal de igual no lugar do **LINK_DO_SITE_AQUI.**
+```
+https://www.google.com/s2/favicons?domain=LINK_DO_SITE_AQUI
+```
