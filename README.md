@@ -1,4 +1,4 @@
-## Olá, eu sou iBragaDev! 👋
+## Olá, eu sou iubrdev! 👋
 
 #### Estas são minhas habilidades de **Designer Gráfico**
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)
